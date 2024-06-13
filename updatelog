@@ -1,0 +1,198 @@
+v1.7:
+- Fixed Obake switching to shadow ghost models during hunts
+- Added the ability for ghosts to leave UV on light switches
+- Moved around lights to be like they are in the actual game
+- Reworked hunting chances AGAIN (Hopefully this is final change)
+- Added the Hantu cold breath ability during hunts
+- Changed front door key design
+- Changed the Journal page in the tutorial
+- Fixed bug where you could open the front door from the bottom of the map
+- Made Mare light switch ability easily noticeable
+- Changed the video camera and video camera overlay design
+- Added two new fingerprint designs
+- Fixed bug where when Shades try hunt, if the player is in the room with it they wait till the player steps out of the room and immediately hunts instead of cancelling the hunt
+- Made the sprint button [SHIFT] instead of [Z]
+- Changed hearing of the ghost during hunts to comply more with stereo headphones
+- Added doors around the map (Ghosts can leave UV evidence on the door if interacted with, Doors block LOS during hunts, Yurei ability works with all doors)
+- Fixed ghosts turning breaker on when it's already on
+- Finally made it so ghost's can't flick lights on/off during hunts
+- Modified the way the ghost walks during hunts
+- Removed tooltips on map selection button and item shop button on main menu
+
+v1.6:
+- Added a shop to spend your money and gather items
+- Added a map selection menu
+- Changed the variables of money, level and xp from showing and it being on your ID card instead
+- Fixed keybinds in tutorial from being incomplete
+- Made most loading times x2 faster
+- Made the time you get your money at the end x2 quicker
+- Added the Apocalypse Trophy
+- Fixed bug where ghost's can use their abilities during hunts
+- Added the "Red Light" and "Standing" ghost event
+- Added tooltips to buttons in the main menu and to items in the van's item board
+- Made it so you can't walk whilst you have your journal open
+- Fixed bug where setup time for Intermediate would be stuck on 1 forever
+- Ghosts are now able to appear in their shadow model during ghost events
+
+v1.5:
+- Added a GUI for changing the difficulty
+- Added the Sanity Monitor to be an actual monitor
+- Made the candle when lit emit light when held
+- Updated Devmode
+- Added the difficulties "Intermediate" and "Apocalypse"
+- Made keypad needing to be clicked
+- Added interact bubble for the van's item board, sanity monitor and keypad
+- Reworked hunting at higher sanities
+- Fix bug where ghost goes invisible and doesn't stop hunting but can't kill you
+- Recoded D.O.T.S and changed the rate you get the D.O.T.S evidence
+- "The Mimic" now has a random speed set to it every 30 seconds to 2 minutes
+- Fixed bug where if ghost killed you next game you load in it would play hunting sound for half a second
+- Fixed bug where spirit box wouldn't work if the breaker was off but light was on in the room
+- Added electronic interference
+- Fixed Ghost Orbs not spawning if the breaker was off but light was on in the room
+- Added a tutorial on the main menu
+- Fixed getting stuck in the front door
+- Re-Done ghost blinking during hunts
+
+v1.4:
+- Made the Yokai hunt ability work more realiably
+- Made early hunting work more often
+- Re-Done how ghost orbs work
+- Added a main menu
+- Fixed money at the end of games sometimes not adding up correctly
+- Added Levels, XP, Money and Case Number
+- Added the ability to Save your progress and Load your progress
+- Made the game summary button in the debriefing work
+- Added sounds for the Lighter, Video Camera and Sanity Medication
+- Fixed the item belt showing after death 
+- Added the "Perfect Investigation Bonus" which adds x1 more multiplier to the money you get at the end of your contract
+- Fixed the summoning circle not deducting sanity when lighting candles
+- Changed all the bone models and made the correct ones show up on the camera
+- Fixed ghost not moving correctly with the map and being too fast
+- Fixed the Ouija Board breaking at any sanity
+- Added 2 difficulties called "Professional" and "Nightmare"
+
+v1.3:
+- Made using flashlights to see during hunts and ghost events viable
+- Fixed Cursed Mirror Models
+- Fixed before entering the house being able to take sanity medication to make your sanity above 100
+- Fixed Voodoo Doll causing no interaction sound
+- Fixed the Bone from spawning on the stairs
+- Fixed D.O.T.S Projecter not illuminating green dots around it
+- Fix dropped items dissapearing once placed
+- Changed the system to grab items from the van
+- Added a black box behind to avoid seeing through the walls when the journal is open
+- Fixed not showing the optional objectives in the journal
+- Developer mode updated
+- Increased performance of game and fixed significant lag
+- Redone the lighting for the front door
+- Fixed ghost not returning to it's favourite room after it roams
+- Fixed interaction sounds not playing
+- Updated the van's model
+- Added the 'Ouija Board' cursed possession
+- Redone position of some lights on the map
+- Fixed journal turning blue sometimes
+- Fixed writing in the book not producing an EMF level
+- Added the ability to take photos of cursed possessions
+- Added a belt to show what items you currently have equipped
+
+v1.2:
+- Added cursed possessions: 'Cursed Mirror', 'Music Box', 'Voodoo Doll' and 'Summoning Circle'
+- Fixed the hunting grace periods being a second shorter than usual
+- Made the ghost footstep's be not heard when they aren't walking during the grace period
+- Crucifixes do stop cursed hunts
+- Fixed Raiju and Jinn speed abilities during hunts not working
+- Fixed a bug where you could select ghosts on the evidence page when the journal was closed
+- Made being on the stairs make your vision 100% dark
+- Made the character hold the salt properly
+- Added so you can't see inside the house if you're outside and vice versa
+
+v1.1:
+- Made it so you can circle and cross out ghosts on the journal
+- Made the max LOS speed a ghost can get during a hunt 1.65x the base ghost speed
+- Fixed Crucifixes
+- Added the 'Prevent the ghost from hunting with a Crucifix' objective
+- Make firelights still lit when you pick them up lit
+- Fixed if you switched between firelights if one was lit it made them all lit
+- Added a burn sound for crucifixes
+
+v1.00 RELEASE:
+- Fixed items being able to be dragged over the flashlight and journal layer
+- Fixed UV spawning in visible for 100ms before turning invisible
+- Reworked Devmode
+
+v0.87:
+- Added the rest of the objectives: 'Cleanse the area near the ghost using Incense', 'Escape the ghost during a hunt' and 'Repel the ghost using Incense during a hunt'
+- Made the hunting sounds for Myling quieter
+- Fixed Ghost footstep sounds during hunts
+- Fixed Ghost Event objective from completing when getting close to ghost during a hunt
+- Fixed EMF level not being produced when breaker is turned on
+- Added the Basement
+- Made distance to ghost for spirit box to happen 250% larger
+- Fixed during hunts if ghost is blinking you can't take ghost photo until it stops blinking
+- Footstep sounds change for You and the Ghost depending on what floor you're standing on
+- Made Deogen able to see you when you're hiding
+- Added a 3 second grace period
+- Added being able to take a photo of Ghost Writing
+- Added sounds when interactions happen
+- Fixed Myling not completing the objective 'Detect a paranormal sound with the Parabolic Microphone'
+
+v0.86.1 HOTFIX:
+- Added dying to the game
+- Fixed the ghost footstep speed during hunts
+- Made ghost actually visible during hunts
+- Fixed ghost layering against the lights
+- Made Hunting 7% less likely on average
+- Fixed Incense
+- Fixed the end screen money calculation
+- Fixed Photo Camera not showing up in hand before taking the first photo
+- Updated the Turbowarp check screen
+- Fixed lights from turning off at the start of a hunt
+- Increased the speed you get some evidence D.O.T.S Projector (20% Faster) and Ghost Writing (12% Faster)
+- Hunts made happen 20% faster on average
+- Made the Interact message on lights and other things not appear when journal is open
+- Made the journal able to be open properly when the dead animation is playing
+
+v0.86:
+- Fixed Air-Ball ghost event
+- Added label on the van item grab area
+- Fixed spelling mistakes in journal
+- Made Goryo's less likely to roam
+- Added ghost changing rooms
+- Fix ghost orbs from showing on the journal
+- Added the ability to Press 'Q' to switch between items
+- Added a dev mode used label at the end if dev mode was ever used during the game
+- Fixed turning off breaker not producing an EMF level
+- Added a check to see if a player used Developer Mode when playing
+- Added an investigation bonus
+- Reworked how thermometer works, more like actual Phasmophobia now
+- Changed starting temperature of house to 10 degrees
+- Added Hunting (Planned on rework)
+- Fixed Thaye's Evidence
+- Re-Done the D.O.T.S layering
+- Fixed truck randomly deleting items from storage
+- Added Incense
+- Finished all ghost abilities
+- Most ghost behaviours replicated
+
+v0.85:
+- Added "Wraith,Phantom,Poltergeist,Banshee,Jinn,Mare,Demon,Yurei" special abilities
+- Added Oni doing ghost events more frequently
+- Changed light break ghost event texture
+- Fixed D.O.T.S ghost end point being the actual position of the ghost
+- Made Goryo dots only be able to be seen on a camera
+- Made D.O.T.S ghost unable to walk through walls
+- Added Sanity Medication
+- Fixed ghost showing for the Air-Ball ghost event
+- The ghost turning off the breaker now leaves EMF in the garage
+
+v0.84:
+- Recoded Ultraviolet
+- Fixed bugs with photo camera
+- Fixed ghost orbs being easy to see on video camera
+- Added update log and credits & special thanks
+- Added game thumbnail
+- Added Air-Ball ghost event
+- Made D.O.T.S ghost be the actual ghost position
+- Added Moroi spirit box curse
+- Updated TurboWarp check screen
