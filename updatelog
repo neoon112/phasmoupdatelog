@@ -18,6 +18,8 @@ v1.7:
 - Finally made it so ghost's can't flick lights on/off during hunts
 - Modified the way the ghost walks during hunts
 - Removed tooltips on map selection button and item shop button on main menu
+- Fixed walking into walls bugging ghost movement during hunts
+- Fixed Nursery hiding spot being inaccessible
 
 v1.6:
 - Added a shop to spend your money and gather items
