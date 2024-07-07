@@ -3,7 +3,7 @@ v1.8:
 - Salt is now easier to see when it's been stepped through by the ghost
 - Fixed belt items being hidden behind flashlight layer
 - Fixed "No Space In Inventory" message not displaying
-- Repositioned Apocalypse Trophey on main menu
+- Repositioned Apocalypse Trophy on main menu
 - Because of the bug with doors, you can now walk through them. Except for the front door during hunts (Doors still block LOS during hunts)
 - Made it so the ghost can change rooms during ghost events
 - The ghost now interacts with objects based on sanity
